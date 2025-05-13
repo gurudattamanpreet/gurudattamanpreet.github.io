@@ -1342,7 +1342,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .avatar-box img { width: 120px; }
 
-  .info-content .name { margin-bottom: 12px; }
+  .info-content .name { margin-bottom: 10px; }
 
   .info-content .title { padding: 5px 18px; }
 
@@ -1556,7 +1556,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    * REUSED STYLE
    */
 
-  .sidebar, article { width: 800px; }
+  .sidebar, article { width: 1000px; }
 
   .has-scrollbar::-webkit-scrollbar-button { width: 100px; }
 
@@ -1675,7 +1675,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   .sidebar, article {
-    width: 950px;
+    width: 1050px;
     box-shadow: var(--shadow-5);
   }
 
