@@ -1290,7 +1290,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   .sidebar, article {
-  width: 800px; /* ya jitna bada chaaho */
+  width: 1000px; /* ya jitna bada chaaho */
   margin-inline: auto;
   padding: 50px;
 }
