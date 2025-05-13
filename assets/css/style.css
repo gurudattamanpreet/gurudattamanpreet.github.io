@@ -1292,7 +1292,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .sidebar, article {
   width: 1000px; /* ya jitna bada chaaho */
   margin-inline: auto;
-  padding: 50px;
+  padding: 70px;
 }
 
   .article-title {
@@ -1345,7 +1345,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .avatar-box img { width: 120px; }
 
-  .info-content .name { margin-bottom: 10px; }
+  .info-content .name {
+  margin-bottom: 10px;
+  font-size: 22px; /* yeh tumne add karna h */
+}
 
   .info-content .title { padding: 5px 18px; }
 
